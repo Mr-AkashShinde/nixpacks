@@ -1,3 +1,0 @@
-require "local"
-
-Local.hi

@@ -1,5 +1,0 @@
-[phases.setup]
-nixPkgs = ["cowsay"]
-
-[start]
-cmd = "./start.sh"

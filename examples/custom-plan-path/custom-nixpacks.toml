@@ -1,4 +1,0 @@
-providers = []
-
-[start]
-cmd = "correct start command"
